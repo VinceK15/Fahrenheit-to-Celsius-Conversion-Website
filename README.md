@@ -1,4 +1,4 @@
-# Web-Assignment-3
+# Fahrenheit to Celsius website
 
 A simple fahrenheit to celsius HTML/CSS website
 
