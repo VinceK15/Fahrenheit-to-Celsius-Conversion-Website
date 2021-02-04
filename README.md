@@ -1,4 +1,4 @@
-# Fahrenheit to Celsius website
+# Fahrenheit to Celsius Conversion website
 
 A simple fahrenheit to celsius HTML/CSS/JS website
 
