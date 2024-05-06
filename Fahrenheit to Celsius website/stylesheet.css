@@ -5,10 +5,10 @@ h1 {
 }
 
 label {
-display: block;
-text-align: center;
-margin-left: auto;
-margin-right: auto;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 form {
@@ -35,6 +35,7 @@ textarea {
 
 .column1 {
     font-weight: bold;
+    text-align: center;
 }
 
 .column2 {
@@ -47,4 +48,16 @@ div {
 
 button {
     display: inline-block;
+}
+
+#result1 {
+    display: inline-block;
+    text-align: left;
+    margin-right: 4%;
+}
+
+#result2 {
+    display: inline-block;
+    text-align: right;
+    margin-left: 4%;
 }
